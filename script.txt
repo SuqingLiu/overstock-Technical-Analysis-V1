@@ -1,0 +1,1 @@
+sftp -i suqingliu.pem bitnami@15.156.193.147
