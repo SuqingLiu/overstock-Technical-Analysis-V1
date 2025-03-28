@@ -25,7 +25,7 @@ export default function Home() {
 
     try {
       // Replace with your server URL or IP if needed
-      const response = await fetch("http://127.0.0.1:5000/status", {
+      const response = await fetch("http://15.156.193.147:5000/status", {
         method: "POST",
         headers: {
           "Content-Type": "application/json",
